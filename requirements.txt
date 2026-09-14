@@ -1,0 +1,40 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# Concolic Robustness Experiments
+# "Exploring Symbolic and Concolic Reasoning for Robustness Analysis
+#  in Neural Networks"
+#
+# Tested on Python 3.10 / 3.11 / 3.12
+# Install: pip install -r requirements.txt
+#
+# Notes
+# ─────
+# • torch / torchvision: CPU-only wheels are smaller and sufficient.
+#   If you want GPU support, install from https://pytorch.org/get-started
+#   instead of using the versions pinned here.
+#
+# • maraboupy: optional — only needed for Notebook 03 exact verification.
+#   Install separately with:  pip install maraboupy
+#   If unavailable, Notebook 03 falls back to the built-in LP verifier.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── deep learning ─────────────────────────────────────────────────────────────
+# CPU-only install (recommended for laptop):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# GPU install: visit https://pytorch.org/get-started/locally/
+torch>=2.0.0
+torchvision>=0.15.0
+
+# ── scientific computing ──────────────────────────────────────────────────────
+numpy>=1.24.0
+scipy>=1.10.0          # LP solver (linprog/HiGHS) used in concolic_engine.py
+
+# ── visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.7.0      # figures and plots in Notebook 05
+
+# ── utilities ─────────────────────────────────────────────────────────────────
+tqdm>=4.65.0           # progress bars in all experiment notebooks
+
+# ── optional: exact neural network verifier ───────────────────────────────────
+# maraboupy>=2.0.0     # uncomment if Marabou is available on your platform
+#                      # see: https://github.com/NeuralNetworkVerification/Marabou
