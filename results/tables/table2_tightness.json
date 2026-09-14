@@ -1,0 +1,56 @@
+[
+  {
+    "method": "FGSM",
+    "mean_tightness": 0.24270895230867592,
+    "median_tightness": 0.09298465335391203,
+    "std_tightness": 0.45053625758722315,
+    "fraction_exact": 0.36666666666666664,
+    "fraction_within5": 0.4,
+    "fraction_within20": 0.7
+  },
+  {
+    "method": "PGD",
+    "mean_tightness": 0.039852332003192756,
+    "median_tightness": 0.0,
+    "std_tightness": 0.07534612552490207,
+    "fraction_exact": 0.7,
+    "fraction_within5": 0.7333333333333333,
+    "fraction_within20": 0.9666666666666667
+  },
+  {
+    "method": "IBP",
+    "mean_tightness": 0.0,
+    "median_tightness": 0.0,
+    "std_tightness": 0.0,
+    "fraction_exact": 1.0,
+    "fraction_within5": 1.0,
+    "fraction_within20": 1.0
+  },
+  {
+    "method": "CROWN",
+    "mean_tightness": 0.0,
+    "median_tightness": 0.0,
+    "std_tightness": 0.0,
+    "fraction_exact": 1.0,
+    "fraction_within5": 1.0,
+    "fraction_within20": 1.0
+  },
+  {
+    "method": "Concolic (upper)",
+    "mean_tightness": 0.2886834619397148,
+    "median_tightness": 0.24759466600049912,
+    "std_tightness": 0.13774938267753786,
+    "fraction_exact": 0.0,
+    "fraction_within5": 0.03333333333333333,
+    "fraction_within20": 0.2
+  },
+  {
+    "method": "Concolic (lower)",
+    "mean_tightness": 0.05615927660320496,
+    "median_tightness": 0.0,
+    "std_tightness": 0.10936194123984465,
+    "fraction_exact": 0.7333333333333333,
+    "fraction_within5": 0.7333333333333333,
+    "fraction_within20": 0.8666666666666667
+  }
+]

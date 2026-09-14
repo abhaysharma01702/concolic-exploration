@@ -1,0 +1,17 @@
+{
+  "medium_mnist": {
+    "n_relu_neurons": 768,
+    "mean_time_per_call": 0.06095609664916992,
+    "estimated_full_run": 6.095609664916992
+  },
+  "large_cifar": {
+    "n_relu_neurons": 2048,
+    "mean_time_per_call": 0.27801852226257323,
+    "estimated_full_run": 27.801852226257324
+  },
+  "small_mnist": {
+    "n_relu_neurons": 128,
+    "mean_time_per_call": 0.5655610958735148,
+    "estimated_full_run": 56.55610958735148
+  }
+}

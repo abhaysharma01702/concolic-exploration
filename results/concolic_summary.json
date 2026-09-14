@@ -1,0 +1,60 @@
+{
+  "small_mnist": {
+    "model_name": "SmallMLP-MNIST",
+    "n_relu_neurons": 128,
+    "n_samples": 100,
+    "mean_eps_upper": 0.174290915820678,
+    "std_eps_upper": 0.06835638188787717,
+    "median_eps_upper": 0.16588171628567555,
+    "mean_eps_lower": 0.13954843879726753,
+    "std_eps_lower": 0.06043461294442411,
+    "median_eps_lower": 0.13297926930691267,
+    "mean_gap": 0.03474247702341045,
+    "std_gap": 0.027863577439549057,
+    "mean_runtime_sec": 0.03771271228790283,
+    "total_runtime_sec": 3.771271228790283,
+    "mean_iterations": 133.58,
+    "fraction_adversarial_found": 1.0
+  },
+  "medium_mnist": {
+    "model_name": "MediumMLP-MNIST",
+    "n_relu_neurons": 768,
+    "n_samples": 100,
+    "mean_eps_upper": 0.24067980924394872,
+    "std_eps_upper": 0.10096781695429277,
+    "median_eps_upper": 0.22477832206331616,
+    "mean_eps_lower": 0.2291286862781009,
+    "std_eps_lower": 0.10212517556035557,
+    "median_eps_lower": 0.2198949436688724,
+    "mean_gap": 0.011551122965847822,
+    "std_gap": 0.019816814750453438,
+    "mean_runtime_sec": 0.051294350624084474,
+    "total_runtime_sec": 5.129435062408447,
+    "mean_iterations": 94.71,
+    "fraction_adversarial_found": 1.0
+  },
+  "large_cifar": {
+    "model_name": "LargeMLP-CIFAR10",
+    "n_relu_neurons": 2048,
+    "n_samples": 100,
+    "mean_eps_upper": 0.06117279938626237,
+    "std_eps_upper": 0.04622123658554572,
+    "median_eps_upper": 0.05019073822959151,
+    "mean_eps_lower": 0.047072618438229075,
+    "std_eps_lower": 0.03703678881181889,
+    "median_eps_lower": 0.04018605686724186,
+    "mean_gap": 0.014100180948033288,
+    "std_gap": 0.01581065151219144,
+    "mean_runtime_sec": 0.3860949444770813,
+    "total_runtime_sec": 38.60949444770813,
+    "mean_iterations": 142.96,
+    "fraction_adversarial_found": 1.0
+  },
+  "config": {
+    "norm": "linf",
+    "max_iter": 150,
+    "max_radius": 1.0,
+    "n_samples": 100,
+    "seed": 42
+  }
+}

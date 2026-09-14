@@ -1,0 +1,56 @@
+{
+  "small_mnist": {
+    "ibp": {
+      "mean_eps_certified": 0.008497499389648439,
+      "std_eps_certified": 0.0036210764021797934,
+      "median_eps_certified": 0.008332138061523438,
+      "fraction_certified": 0.98,
+      "mean_runtime_sec": 0.006612453460693359,
+      "n_samples": 100
+    },
+    "crown": {
+      "mean_eps_certified": 0.009255102844238281,
+      "std_eps_certified": 0.004152764874034259,
+      "median_eps_certified": 0.008941879272460939,
+      "fraction_certified": 0.98,
+      "mean_runtime_sec": 0.009941139221191407,
+      "n_samples": 100
+    }
+  },
+  "lenet5_mnist": {
+    "ibp": {
+      "mean_eps_certified": 0.0019738769531249998,
+      "std_eps_certified": 0.0007778783640738578,
+      "median_eps_certified": 0.00203656005859375,
+      "fraction_certified": 0.93,
+      "mean_runtime_sec": 0.03134530305862427,
+      "n_samples": 100
+    },
+    "crown": {
+      "mean_eps_certified": 0.0023058203125,
+      "std_eps_certified": 0.0009590191526990421,
+      "median_eps_certified": 0.00228045654296875,
+      "fraction_certified": 0.94,
+      "mean_runtime_sec": 0.04226470232009888,
+      "n_samples": 100
+    }
+  },
+  "smallcnn_cifar": {
+    "ibp": {
+      "mean_eps_certified": 0.0,
+      "std_eps_certified": 0.0,
+      "median_eps_certified": 0.0,
+      "fraction_certified": 0.0,
+      "mean_runtime_sec": 0.005088412761688232,
+      "n_samples": 100
+    },
+    "crown": {
+      "mean_eps_certified": 0.0,
+      "std_eps_certified": 0.0,
+      "median_eps_certified": 0.0,
+      "fraction_certified": 0.0,
+      "mean_runtime_sec": 0.005546321868896484,
+      "n_samples": 100
+    }
+  }
+}

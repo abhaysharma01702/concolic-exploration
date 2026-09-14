@@ -1,0 +1,10 @@
+{
+  "nearest_boundary_first": {
+    "mean_eps_upper": 0.17943999167764912,
+    "std_eps_upper": 0.07947833607191947
+  },
+  "random_selection": {
+    "mean_eps_upper": 0.18026970712367,
+    "std_eps_upper": 0.06824879736839087
+  }
+}

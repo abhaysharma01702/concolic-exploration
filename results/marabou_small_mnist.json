@@ -1,0 +1,2085 @@
+{
+  "per_sample": [
+    {
+      "eps_star": 0.09919190406799316,
+      "timed_out": false,
+      "runtime_sec": 0.5500671863555908,
+      "verifier": "lp_local",
+      "label": 5,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0984609375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.10041015625,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.099435546875,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.09894824218750001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.09919189453125,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.09907006835937501,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.11795318126678467,
+      "timed_out": false,
+      "runtime_sec": 0.5234744548797607,
+      "verifier": "lp_local",
+      "label": 1,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.11795312499999999,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1140546875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.11600390625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.116978515625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1174658203125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.11770947265625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.11783129882812499,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.2001858949661255,
+      "timed_out": false,
+      "runtime_sec": 0.5782046318054199,
+      "verifier": "lp_local",
+      "label": 4,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.2193125,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.20371875,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.195921875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.19982031249999999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.20176953125,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.20079492187499998,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.20030761718749998,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.20006396484375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.200185791015625,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.18032819032669067,
+      "timed_out": false,
+      "runtime_sec": 0.5547726154327393,
+      "verifier": "lp_local",
+      "label": 6,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.17253125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.180328125,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1764296875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.17837890625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.17935351562500002,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1798408203125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.18008447265625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.180206298828125,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.09699904918670654,
+      "timed_out": false,
+      "runtime_sec": 0.5468347072601318,
+      "verifier": "lp_local",
+      "label": 9,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0984609375,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.09651171875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.097486328125,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.0969990234375,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.09675537109375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.09687719726562499,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.22174906730651855,
+      "timed_out": false,
+      "runtime_sec": 0.5711963176727295,
+      "verifier": "lp_local",
+      "label": 8,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.2193125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.23490624999999998,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.227109375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.22321093749999998,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.22126171875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.222236328125,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.2217490234375,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.22150537109375001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.22162719726562502,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.16229796409606934,
+      "timed_out": false,
+      "runtime_sec": 0.5124588012695312,
+      "verifier": "lp_local",
+      "label": 4,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.17253125,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.164734375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1608359375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.16278515625,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.16181054687500002,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1622978515625,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.16205419921875003,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.16217602539062503,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.012451663613319397,
+      "timed_out": false,
+      "runtime_sec": 0.5822186470031738,
+      "verifier": "lp_local",
+      "label": 7,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0321875,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.01659375,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.008796875000000001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0126953125,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.010746093750000001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.011720703125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.012208007812500001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.01245166015625,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.012329833984375,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.1839829683303833,
+      "timed_out": false,
+      "runtime_sec": 0.5928850173950195,
+      "verifier": "lp_local",
+      "label": 0,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.17253125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.180328125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1842265625,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.18227734375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.18325195312499998,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1837392578125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.18398291015625,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.183861083984375,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.1384199857711792,
+      "timed_out": false,
+      "runtime_sec": 0.5487372875213623,
+      "verifier": "lp_local",
+      "label": 4,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.14134375,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.133546875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1374453125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.13939453125,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.13841992187500002,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1379326171875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.13817626953125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.138298095703125,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.09967923164367676,
+      "timed_out": false,
+      "runtime_sec": 0.6467554569244385,
+      "verifier": "lp_local",
+      "label": 9,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0984609375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.10041015625,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.099435546875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.0999228515625,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.09967919921875,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.09955737304687501,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.14110016822814941,
+      "timed_out": false,
+      "runtime_sec": 0.504117488861084,
+      "verifier": "lp_local",
+      "label": 7,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.14134375,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.133546875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1374453125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.13939453125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.140369140625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1408564453125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.14110009765624998,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.14097827148437497,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.07641041278839111,
+      "timed_out": false,
+      "runtime_sec": 0.5562329292297363,
+      "verifier": "lp_local",
+      "label": 1,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.07896875,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.071171875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0750703125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.07701953125,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.076044921875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.0765322265625,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.07628857421875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.076410400390625,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.10650157928466797,
+      "timed_out": false,
+      "runtime_sec": 0.5328812599182129,
+      "verifier": "lp_local",
+      "label": 3,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.10625781249999999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.10820703125,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.107232421875,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.10674511718749999,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.10650146484374999,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.106379638671875,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.11856234073638916,
+      "timed_out": false,
+      "runtime_sec": 0.5967285633087158,
+      "verifier": "lp_local",
+      "label": 2,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.11795312499999999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1218515625,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.11990234375,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.118927734375,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.11844042968749999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.11868408203125,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.118562255859375,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.2310078740119934,
+      "timed_out": false,
+      "runtime_sec": 0.5212595462799072,
+      "verifier": "lp_local",
+      "label": 2,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.2193125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.23490624999999998,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.227109375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.2310078125,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.22905859374999998,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.23003320312499997,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.2305205078125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.23076416015625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.23088598632812501,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.14816606044769287,
+      "timed_out": false,
+      "runtime_sec": 0.5905401706695557,
+      "verifier": "lp_local",
+      "label": 2,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.14134375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.149140625,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1452421875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.14719140625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.14816601562499998,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.14767871093749999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.14792236328124997,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.14804418945312497,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.1638815999031067,
+      "timed_out": false,
+      "runtime_sec": 0.5829508304595947,
+      "verifier": "lp_local",
+      "label": 6,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.17253125,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.164734375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1608359375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.16278515625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.163759765625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1642470703125,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.16400341796875,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.163881591796875,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.10662341117858887,
+      "timed_out": false,
+      "runtime_sec": 0.542510986328125,
+      "verifier": "lp_local",
+      "label": 1,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.10625781249999999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.10820703125,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.107232421875,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.10674511718749999,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.10650146484374999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.10662329101562498,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.08457279205322266,
+      "timed_out": false,
+      "runtime_sec": 0.5746417045593262,
+      "verifier": "lp_local",
+      "label": 9,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.07896875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.086765625,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0828671875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.08481640625,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.083841796875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.08432910156250001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.08457275390625,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.08445092773437501,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.16241979598999023,
+      "timed_out": false,
+      "runtime_sec": 0.5990009307861328,
+      "verifier": "lp_local",
+      "label": 3,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.17253125,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.164734375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1608359375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.16278515625,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.16181054687500002,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1622978515625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.16254150390625,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.162419677734375,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.12879568338394165,
+      "timed_out": false,
+      "runtime_sec": 0.554750919342041,
+      "verifier": "lp_local",
+      "label": 2,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.14134375,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.133546875,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1296484375,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.12769921875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.128673828125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1291611328125,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.12891748046875,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.128795654296875,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.23527181148529053,
+      "timed_out": false,
+      "runtime_sec": 0.551530122756958,
+      "verifier": "lp_local",
+      "label": 0,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.2193125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.23490624999999998,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.242703125,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.2388046875,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.23685546875,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.23588085937499997,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.23539355468749998,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.23514990234375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.235271728515625,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.23417532444000244,
+      "timed_out": false,
+      "runtime_sec": 0.575955867767334,
+      "verifier": "lp_local",
+      "label": 6,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.2193125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.23490624999999998,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.227109375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.2310078125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.23295703125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.233931640625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.2344189453125,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.23417529296875,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.234053466796875,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.17545509338378906,
+      "timed_out": false,
+      "runtime_sec": 0.5875377655029297,
+      "verifier": "lp_local",
+      "label": 6,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.17253125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.180328125,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1764296875,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.17448046875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.175455078125,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1749677734375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.17521142578124999,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.175333251953125,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.09322249889373779,
+      "timed_out": false,
+      "runtime_sec": 0.5709357261657715,
+      "verifier": "lp_local",
+      "label": 3,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.07896875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.086765625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0906640625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.09261328125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.093587890625,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.09310058593750001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.09334423828125,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.09322241210937501,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.15218639373779297,
+      "timed_out": false,
+      "runtime_sec": 0.5579829216003418,
+      "verifier": "lp_local",
+      "label": 7,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.14134375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.149140625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1530390625,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.15108984375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.152064453125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1525517578125,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.15230810546875,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.152186279296875,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.10260307788848877,
+      "timed_out": false,
+      "runtime_sec": 0.5594823360443115,
+      "verifier": "lp_local",
+      "label": 4,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.10625781249999999,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.10430859375,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.103333984375,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1028466796875,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.10260302734375,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.10248120117187501,
+          "status": "UNSAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.09931373596191406,
+      "timed_out": false,
+      "runtime_sec": 0.5842149257659912,
+      "verifier": "lp_local",
+      "label": 8,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "SAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.063375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.0945625,
+          "status": "UNSAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.11015625,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.102359375,
+          "status": "SAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.0984609375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.10041015625,
+          "status": "SAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.099435546875,
+          "status": "SAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.09894824218750001,
+          "status": "UNSAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.09919189453125,
+          "status": "UNSAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.099313720703125,
+          "status": "SAT"
+        }
+      ]
+    },
+    {
+      "eps_star": 0.13659262657165527,
+      "timed_out": false,
+      "runtime_sec": 0.6159727573394775,
+      "verifier": "lp_local",
+      "label": 7,
+      "log": [
+        {
+          "step": 0,
+          "eps": 0.2505,
+          "status": "SAT"
+        },
+        {
+          "step": 1,
+          "eps": 0.12575,
+          "status": "UNSAT"
+        },
+        {
+          "step": 2,
+          "eps": 0.188125,
+          "status": "SAT"
+        },
+        {
+          "step": 3,
+          "eps": 0.1569375,
+          "status": "SAT"
+        },
+        {
+          "step": 4,
+          "eps": 0.14134375,
+          "status": "SAT"
+        },
+        {
+          "step": 5,
+          "eps": 0.133546875,
+          "status": "UNSAT"
+        },
+        {
+          "step": 6,
+          "eps": 0.1374453125,
+          "status": "SAT"
+        },
+        {
+          "step": 7,
+          "eps": 0.13549609375,
+          "status": "UNSAT"
+        },
+        {
+          "step": 8,
+          "eps": 0.13647070312499998,
+          "status": "UNSAT"
+        },
+        {
+          "step": 9,
+          "eps": 0.1369580078125,
+          "status": "SAT"
+        },
+        {
+          "step": 10,
+          "eps": 0.13671435546875,
+          "status": "SAT"
+        },
+        {
+          "step": 11,
+          "eps": 0.136592529296875,
+          "status": "SAT"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "verifier": "lp_local",
+    "n_samples": 30,
+    "n_valid": 30,
+    "n_timeouts": 0,
+    "mean_eps_star": 0.14033671269814174,
+    "std_eps_star": 0.05171153776920038,
+    "median_eps_star": 0.13750630617141724,
+    "mean_runtime_sec": 0.5655610958735148,
+    "total_runtime_sec": 16.966832876205444
+  }
+}

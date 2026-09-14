@@ -1,0 +1,51 @@
+{
+  "lenet5_mnist": {
+    "model_name": "LeNet5-MNIST",
+    "max_radius": 0.3,
+    "mean_eps_upper": 0.29758938169479365,
+    "std_eps_upper": 0.01385421295928972,
+    "mean_eps_lower": 0.259365853458643,
+    "std_eps_lower": 0.06236645108987528,
+    "mean_gap": 0.03822352823615074,
+    "fraction_adversarial_found": 0.03,
+    "fraction_fgsm_fallback": 0.0,
+    "mean_runtime_sec": 34.793501121997835,
+    "total_runtime_sec": 3479.3501121997833,
+    "cache_hit_rate": 0.0,
+    "n_distinct_patterns": 100,
+    "n_samples": 100,
+    "max_iter": 100
+  },
+  "smallcnn_cifar": {
+    "model_name": "SmallCNN-CIFAR10",
+    "max_radius": 0.15,
+    "mean_eps_upper": 0.14232018994140624,
+    "std_eps_upper": 0.028111473141790185,
+    "mean_eps_lower": 0.0316551770537626,
+    "std_eps_lower": 0.023157599899866606,
+    "mean_gap": 0.11066501288764365,
+    "fraction_adversarial_found": 0.08,
+    "fraction_fgsm_fallback": 0.08,
+    "mean_runtime_sec": 67.16267138719559,
+    "total_runtime_sec": 6716.267138719559,
+    "cache_hit_rate": 0.0,
+    "n_distinct_patterns": 100,
+    "n_samples": 100,
+    "max_iter": 100
+  },
+  "cache_analysis": {
+    "time_without_cache_sec": 976.9944672584534,
+    "time_with_cache_sec": 910.3611330986023,
+    "speedup": 1.0731943969675537,
+    "cache_hit_rate": 0.0,
+    "n_distinct_patterns": 30,
+    "n_samples": 30,
+    "pattern_reuse_rate": 0.0
+  },
+  "config": {
+    "norm": "linf",
+    "max_iter": 100,
+    "max_radius": 0.3,
+    "n_samples": 100
+  }
+}

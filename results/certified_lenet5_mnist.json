@@ -1,0 +1,1026 @@
+{
+  "ibp": {
+    "per_sample": [
+      {
+        "eps_certified": 0.001457305908203125,
+        "certified": true,
+        "runtime_sec": 0.02605581283569336
+      },
+      {
+        "eps_certified": 0.0017926635742187497,
+        "certified": true,
+        "runtime_sec": 0.02597212791442871
+      },
+      {
+        "eps_certified": 0.00142681884765625,
+        "certified": true,
+        "runtime_sec": 0.027802467346191406
+      },
+      {
+        "eps_certified": 0.00301214599609375,
+        "certified": true,
+        "runtime_sec": 0.02697443962097168
+      },
+      {
+        "eps_certified": 0.0016402282714843748,
+        "certified": true,
+        "runtime_sec": 0.026880979537963867
+      },
+      {
+        "eps_certified": 0.00228045654296875,
+        "certified": true,
+        "runtime_sec": 0.023792505264282227
+      },
+      {
+        "eps_certified": 0.0023719177246093745,
+        "certified": true,
+        "runtime_sec": 0.029439449310302734
+      },
+      {
+        "eps_certified": 0.0025548400878906245,
+        "certified": true,
+        "runtime_sec": 0.028113365173339844
+      },
+      {
+        "eps_certified": 0.0031036071777343745,
+        "certified": true,
+        "runtime_sec": 0.037741899490356445
+      },
+      {
+        "eps_certified": 0.0023414306640624997,
+        "certified": true,
+        "runtime_sec": 0.031469106674194336
+      },
+      {
+        "eps_certified": 0.00276824951171875,
+        "certified": true,
+        "runtime_sec": 0.027537822723388672
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.032395362854003906
+      },
+      {
+        "eps_certified": 0.0023414306640624997,
+        "certified": true,
+        "runtime_sec": 0.021548748016357422
+      },
+      {
+        "eps_certified": 0.0019755859374999997,
+        "certified": true,
+        "runtime_sec": 0.020842313766479492
+      },
+      {
+        "eps_certified": 0.00410968017578125,
+        "certified": true,
+        "runtime_sec": 0.027880191802978516
+      },
+      {
+        "eps_certified": 0.0023719177246093745,
+        "certified": true,
+        "runtime_sec": 0.031078815460205078
+      },
+      {
+        "eps_certified": 0.00203656005859375,
+        "certified": true,
+        "runtime_sec": 0.040282487869262695
+      },
+      {
+        "eps_certified": 0.0020060729980468745,
+        "certified": true,
+        "runtime_sec": 0.028673648834228516
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.003131866455078125
+      },
+      {
+        "eps_certified": 0.00228045654296875,
+        "certified": true,
+        "runtime_sec": 0.04504680633544922
+      },
+      {
+        "eps_certified": 0.0027377624511718745,
+        "certified": true,
+        "runtime_sec": 0.03716611862182617
+      },
+      {
+        "eps_certified": 0.002676788330078125,
+        "certified": true,
+        "runtime_sec": 0.04736971855163574
+      },
+      {
+        "eps_certified": 0.002493865966796875,
+        "certified": true,
+        "runtime_sec": 0.054691314697265625
+      },
+      {
+        "eps_certified": 0.0029206848144531245,
+        "certified": true,
+        "runtime_sec": 0.031079769134521484
+      },
+      {
+        "eps_certified": 0.002249969482421875,
+        "certified": true,
+        "runtime_sec": 0.0269927978515625
+      },
+      {
+        "eps_certified": 0.0019146118164062498,
+        "certified": true,
+        "runtime_sec": 0.02524280548095703
+      },
+      {
+        "eps_certified": 0.0015487670898437498,
+        "certified": true,
+        "runtime_sec": 0.039586544036865234
+      },
+      {
+        "eps_certified": 0.002128021240234375,
+        "certified": true,
+        "runtime_sec": 0.040876150131225586
+      },
+      {
+        "eps_certified": 0.0018841247558593747,
+        "certified": true,
+        "runtime_sec": 0.04143404960632324
+      },
+      {
+        "eps_certified": 0.0017621765136718748,
+        "certified": true,
+        "runtime_sec": 0.03798413276672363
+      },
+      {
+        "eps_certified": 0.0017621765136718748,
+        "certified": true,
+        "runtime_sec": 0.04084968566894531
+      },
+      {
+        "eps_certified": 0.002981658935546875,
+        "certified": true,
+        "runtime_sec": 0.03792238235473633
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.004110097885131836
+      },
+      {
+        "eps_certified": 0.0015487670898437498,
+        "certified": true,
+        "runtime_sec": 0.03326702117919922
+      },
+      {
+        "eps_certified": 0.00203656005859375,
+        "certified": true,
+        "runtime_sec": 0.05006837844848633
+      },
+      {
+        "eps_certified": 0.00228045654296875,
+        "certified": true,
+        "runtime_sec": 0.03457927703857422
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.002130746841430664
+      },
+      {
+        "eps_certified": 0.0017621765136718748,
+        "certified": true,
+        "runtime_sec": 0.04533743858337402
+      },
+      {
+        "eps_certified": 0.0021585083007812497,
+        "certified": true,
+        "runtime_sec": 0.04400753974914551
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.004462242126464844
+      },
+      {
+        "eps_certified": 0.001274383544921875,
+        "certified": true,
+        "runtime_sec": 0.04021143913269043
+      },
+      {
+        "eps_certified": 0.0021889953613281245,
+        "certified": true,
+        "runtime_sec": 0.039563655853271484
+      },
+      {
+        "eps_certified": 0.0020975341796875,
+        "certified": true,
+        "runtime_sec": 0.03632092475891113
+      },
+      {
+        "eps_certified": 0.0017621765136718748,
+        "certified": true,
+        "runtime_sec": 0.033332109451293945
+      },
+      {
+        "eps_certified": 0.002432891845703125,
+        "certified": true,
+        "runtime_sec": 0.029318809509277344
+      },
+      {
+        "eps_certified": 0.002310943603515625,
+        "certified": true,
+        "runtime_sec": 0.030070781707763672
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.03546857833862305
+      },
+      {
+        "eps_certified": 0.0017926635742187497,
+        "certified": true,
+        "runtime_sec": 0.02704763412475586
+      },
+      {
+        "eps_certified": 0.0019450988769531248,
+        "certified": true,
+        "runtime_sec": 0.0266878604888916
+      },
+      {
+        "eps_certified": 0.0025243530273437497,
+        "certified": true,
+        "runtime_sec": 0.020534038543701172
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.02988719940185547
+      },
+      {
+        "eps_certified": 0.001243896484375,
+        "certified": true,
+        "runtime_sec": 0.031748056411743164
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.0
+      },
+      {
+        "eps_certified": 0.00276824951171875,
+        "certified": true,
+        "runtime_sec": 0.03012824058532715
+      },
+      {
+        "eps_certified": 0.0016402282714843748,
+        "certified": true,
+        "runtime_sec": 0.02919173240661621
+      },
+      {
+        "eps_certified": 0.002310943603515625,
+        "certified": true,
+        "runtime_sec": 0.015993356704711914
+      },
+      {
+        "eps_certified": 0.0015182800292968747,
+        "certified": true,
+        "runtime_sec": 0.019635677337646484
+      },
+      {
+        "eps_certified": 0.0031036071777343745,
+        "certified": true,
+        "runtime_sec": 0.01572895050048828
+      },
+      {
+        "eps_certified": 0.0020975341796875,
+        "certified": true,
+        "runtime_sec": 0.028501510620117188
+      },
+      {
+        "eps_certified": 0.0013963317871093749,
+        "certified": true,
+        "runtime_sec": 0.019454479217529297
+      },
+      {
+        "eps_certified": 0.002067047119140625,
+        "certified": true,
+        "runtime_sec": 0.03249311447143555
+      },
+      {
+        "eps_certified": 0.00264630126953125,
+        "certified": true,
+        "runtime_sec": 0.02959918975830078
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.0020058155059814453
+      },
+      {
+        "eps_certified": 0.0021889953613281245,
+        "certified": true,
+        "runtime_sec": 0.023209571838378906
+      },
+      {
+        "eps_certified": 0.0028901977539062497,
+        "certified": true,
+        "runtime_sec": 0.031005382537841797
+      },
+      {
+        "eps_certified": 0.0013048706054687499,
+        "certified": true,
+        "runtime_sec": 0.043770790100097656
+      },
+      {
+        "eps_certified": 0.00264630126953125,
+        "certified": true,
+        "runtime_sec": 0.04489755630493164
+      },
+      {
+        "eps_certified": 0.0015182800292968747,
+        "certified": true,
+        "runtime_sec": 0.05293774604797363
+      },
+      {
+        "eps_certified": 0.0017316894531249998,
+        "certified": true,
+        "runtime_sec": 0.036470651626586914
+      },
+      {
+        "eps_certified": 0.00142681884765625,
+        "certified": true,
+        "runtime_sec": 0.03405404090881348
+      },
+      {
+        "eps_certified": 0.00313409423828125,
+        "certified": true,
+        "runtime_sec": 0.026479005813598633
+      },
+      {
+        "eps_certified": 0.0018231506347656248,
+        "certified": true,
+        "runtime_sec": 0.029565811157226562
+      },
+      {
+        "eps_certified": 0.00246337890625,
+        "certified": true,
+        "runtime_sec": 0.009749174118041992
+      },
+      {
+        "eps_certified": 0.00118292236328125,
+        "certified": true,
+        "runtime_sec": 0.031706809997558594
+      },
+      {
+        "eps_certified": 0.001335357666015625,
+        "certified": true,
+        "runtime_sec": 0.060745954513549805
+      },
+      {
+        "eps_certified": 0.0029206848144531245,
+        "certified": true,
+        "runtime_sec": 0.04993629455566406
+      },
+      {
+        "eps_certified": 0.0014877929687499999,
+        "certified": true,
+        "runtime_sec": 0.04165148735046387
+      },
+      {
+        "eps_certified": 0.002310943603515625,
+        "certified": true,
+        "runtime_sec": 0.039559364318847656
+      },
+      {
+        "eps_certified": 0.001335357666015625,
+        "certified": true,
+        "runtime_sec": 0.040967464447021484
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.034845590591430664
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.001961946487426758
+      },
+      {
+        "eps_certified": 0.0016402282714843748,
+        "certified": true,
+        "runtime_sec": 0.033345699310302734
+      },
+      {
+        "eps_certified": 0.002310943603515625,
+        "certified": true,
+        "runtime_sec": 0.026537179946899414
+      },
+      {
+        "eps_certified": 0.0016402282714843748,
+        "certified": true,
+        "runtime_sec": 0.04254746437072754
+      },
+      {
+        "eps_certified": 0.0012134094238281249,
+        "certified": true,
+        "runtime_sec": 0.04372596740722656
+      },
+      {
+        "eps_certified": 0.002432891845703125,
+        "certified": true,
+        "runtime_sec": 0.042317867279052734
+      },
+      {
+        "eps_certified": 0.002951171875,
+        "certified": true,
+        "runtime_sec": 0.05264639854431152
+      },
+      {
+        "eps_certified": 0.0016707153320312499,
+        "certified": true,
+        "runtime_sec": 0.04163408279418945
+      },
+      {
+        "eps_certified": 0.0013658447265625,
+        "certified": true,
+        "runtime_sec": 0.0361330509185791
+      },
+      {
+        "eps_certified": 0.002249969482421875,
+        "certified": true,
+        "runtime_sec": 0.036019325256347656
+      },
+      {
+        "eps_certified": 0.0017621765136718748,
+        "certified": true,
+        "runtime_sec": 0.0323028564453125
+      },
+      {
+        "eps_certified": 0.0023414306640624997,
+        "certified": true,
+        "runtime_sec": 0.030458688735961914
+      },
+      {
+        "eps_certified": 0.0015792541503906249,
+        "certified": true,
+        "runtime_sec": 0.03238701820373535
+      },
+      {
+        "eps_certified": 0.0023414306640624997,
+        "certified": true,
+        "runtime_sec": 0.025473356246948242
+      },
+      {
+        "eps_certified": 0.0025548400878906245,
+        "certified": true,
+        "runtime_sec": 0.02501368522644043
+      },
+      {
+        "eps_certified": 0.00240240478515625,
+        "certified": true,
+        "runtime_sec": 0.029543399810791016
+      },
+      {
+        "eps_certified": 0.002310943603515625,
+        "certified": true,
+        "runtime_sec": 0.0416867733001709
+      },
+      {
+        "eps_certified": 0.00106097412109375,
+        "certified": true,
+        "runtime_sec": 0.03542780876159668
+      },
+      {
+        "eps_certified": 0.0035609130859375,
+        "certified": true,
+        "runtime_sec": 0.02703547477722168
+      },
+      {
+        "eps_certified": 0.003042633056640625,
+        "certified": true,
+        "runtime_sec": 0.022037982940673828
+      }
+    ],
+    "stats": {
+      "mean_eps_certified": 0.0019738769531249998,
+      "std_eps_certified": 0.0007778783640738578,
+      "median_eps_certified": 0.00203656005859375,
+      "fraction_certified": 0.93,
+      "mean_runtime_sec": 0.03134530305862427,
+      "n_samples": 100
+    }
+  },
+  "crown": {
+    "per_sample": [
+      {
+        "eps_certified": 0.0016402282714843748,
+        "certified": true,
+        "runtime_sec": 0.03953909873962402
+      },
+      {
+        "eps_certified": 0.0019755859374999997,
+        "certified": true,
+        "runtime_sec": 0.034311771392822266
+      },
+      {
+        "eps_certified": 0.0015487670898437498,
+        "certified": true,
+        "runtime_sec": 0.03590202331542969
+      },
+      {
+        "eps_certified": 0.0034694519042968745,
+        "certified": true,
+        "runtime_sec": 0.03534889221191406
+      },
+      {
+        "eps_certified": 0.0017926635742187497,
+        "certified": true,
+        "runtime_sec": 0.03427624702453613
+      },
+      {
+        "eps_certified": 0.002615814208984375,
+        "certified": true,
+        "runtime_sec": 0.033583879470825195
+      },
+      {
+        "eps_certified": 0.0027377624511718745,
+        "certified": true,
+        "runtime_sec": 0.039374351501464844
+      },
+      {
+        "eps_certified": 0.003225555419921875,
+        "certified": true,
+        "runtime_sec": 0.02758932113647461
+      },
+      {
+        "eps_certified": 0.0036828613281249998,
+        "certified": true,
+        "runtime_sec": 0.025808334350585938
+      },
+      {
+        "eps_certified": 0.00276824951171875,
+        "certified": true,
+        "runtime_sec": 0.03764605522155762
+      },
+      {
+        "eps_certified": 0.00337799072265625,
+        "certified": true,
+        "runtime_sec": 0.02753734588623047
+      },
+      {
+        "eps_certified": 0.002128021240234375,
+        "certified": true,
+        "runtime_sec": 0.03884315490722656
+      },
+      {
+        "eps_certified": 0.002615814208984375,
+        "certified": true,
+        "runtime_sec": 0.04087543487548828
+      },
+      {
+        "eps_certified": 0.00228045654296875,
+        "certified": true,
+        "runtime_sec": 0.03949856758117676
+      },
+      {
+        "eps_certified": 0.0050852661132812504,
+        "certified": true,
+        "runtime_sec": 0.028056621551513672
+      },
+      {
+        "eps_certified": 0.00264630126953125,
+        "certified": true,
+        "runtime_sec": 0.029818058013916016
+      },
+      {
+        "eps_certified": 0.00228045654296875,
+        "certified": true,
+        "runtime_sec": 0.036792755126953125
+      },
+      {
+        "eps_certified": 0.002493865966796875,
+        "certified": true,
+        "runtime_sec": 0.03363633155822754
+      },
+      {
+        "eps_certified": 0.001,
+        "certified": true,
+        "runtime_sec": 0.050141334533691406
+      },
+      {
+        "eps_certified": 0.002615814208984375,
+        "certified": true,
+        "runtime_sec": 0.0569455623626709
+      },
+      {
+        "eps_certified": 0.003347503662109375,
+        "certified": true,
+        "runtime_sec": 0.05394411087036133
+      },
+      {
+        "eps_certified": 0.003164581298828125,
+        "certified": true,
+        "runtime_sec": 0.07172346115112305
+      },
+      {
+        "eps_certified": 0.0030731201171874997,
+        "certified": true,
+        "runtime_sec": 0.046826839447021484
+      },
+      {
+        "eps_certified": 0.003713348388671875,
+        "certified": true,
+        "runtime_sec": 0.03849959373474121
+      },
+      {
+        "eps_certified": 0.0027377624511718745,
+        "certified": true,
+        "runtime_sec": 0.04227328300476074
+      },
+      {
+        "eps_certified": 0.0021889953613281245,
+        "certified": true,
+        "runtime_sec": 0.05682539939880371
+      },
+      {
+        "eps_certified": 0.0017012023925781247,
+        "certified": true,
+        "runtime_sec": 0.0604243278503418
+      },
+      {
+        "eps_certified": 0.00246337890625,
+        "certified": true,
+        "runtime_sec": 0.06296968460083008
+      },
+      {
+        "eps_certified": 0.0020060729980468745,
+        "certified": true,
+        "runtime_sec": 0.05820417404174805
+      },
+      {
+        "eps_certified": 0.0019146118164062498,
+        "certified": true,
+        "runtime_sec": 0.05656123161315918
+      },
+      {
+        "eps_certified": 0.0018841247558593747,
+        "certified": true,
+        "runtime_sec": 0.05434060096740723
+      },
+      {
+        "eps_certified": 0.003896270751953125,
+        "certified": true,
+        "runtime_sec": 0.054116010665893555
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.0055217742919921875
+      },
+      {
+        "eps_certified": 0.0017316894531249998,
+        "certified": true,
+        "runtime_sec": 0.04314875602722168
+      },
+      {
+        "eps_certified": 0.0021889953613281245,
+        "certified": true,
+        "runtime_sec": 0.06219649314880371
+      },
+      {
+        "eps_certified": 0.002798736572265625,
+        "certified": true,
+        "runtime_sec": 0.06220364570617676
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.003991842269897461
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.05838608741760254
+      },
+      {
+        "eps_certified": 0.002493865966796875,
+        "certified": true,
+        "runtime_sec": 0.05452585220336914
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.003905773162841797
+      },
+      {
+        "eps_certified": 0.0013963317871093749,
+        "certified": true,
+        "runtime_sec": 0.054488420486450195
+      },
+      {
+        "eps_certified": 0.0025548400878906245,
+        "certified": true,
+        "runtime_sec": 0.0490877628326416
+      },
+      {
+        "eps_certified": 0.002432891845703125,
+        "certified": true,
+        "runtime_sec": 0.045882225036621094
+      },
+      {
+        "eps_certified": 0.0019755859374999997,
+        "certified": true,
+        "runtime_sec": 0.04260110855102539
+      },
+      {
+        "eps_certified": 0.0030731201171874997,
+        "certified": true,
+        "runtime_sec": 0.04032087326049805
+      },
+      {
+        "eps_certified": 0.0027072753906249997,
+        "certified": true,
+        "runtime_sec": 0.04996824264526367
+      },
+      {
+        "eps_certified": 0.00203656005859375,
+        "certified": true,
+        "runtime_sec": 0.031142711639404297
+      },
+      {
+        "eps_certified": 0.002067047119140625,
+        "certified": true,
+        "runtime_sec": 0.1051492691040039
+      },
+      {
+        "eps_certified": 0.0020975341796875,
+        "certified": true,
+        "runtime_sec": 0.04080390930175781
+      },
+      {
+        "eps_certified": 0.00301214599609375,
+        "certified": true,
+        "runtime_sec": 0.0338134765625
+      },
+      {
+        "eps_certified": 0.00203656005859375,
+        "certified": true,
+        "runtime_sec": 0.03171658515930176
+      },
+      {
+        "eps_certified": 0.0013963317871093749,
+        "certified": true,
+        "runtime_sec": 0.039704322814941406
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.0
+      },
+      {
+        "eps_certified": 0.003347503662109375,
+        "certified": true,
+        "runtime_sec": 0.0335538387298584
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.03639817237854004
+      },
+      {
+        "eps_certified": 0.00264630126953125,
+        "certified": true,
+        "runtime_sec": 0.047583818435668945
+      },
+      {
+        "eps_certified": 0.0017012023925781247,
+        "certified": true,
+        "runtime_sec": 0.04148244857788086
+      },
+      {
+        "eps_certified": 0.0039877319335937505,
+        "certified": true,
+        "runtime_sec": 0.04308748245239258
+      },
+      {
+        "eps_certified": 0.002249969482421875,
+        "certified": true,
+        "runtime_sec": 0.03585624694824219
+      },
+      {
+        "eps_certified": 0.0016097412109374997,
+        "certified": true,
+        "runtime_sec": 0.042487382888793945
+      },
+      {
+        "eps_certified": 0.002493865966796875,
+        "certified": true,
+        "runtime_sec": 0.04358983039855957
+      },
+      {
+        "eps_certified": 0.00313409423828125,
+        "certified": true,
+        "runtime_sec": 0.03723311424255371
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.0020041465759277344
+      },
+      {
+        "eps_certified": 0.00246337890625,
+        "certified": true,
+        "runtime_sec": 0.02980208396911621
+      },
+      {
+        "eps_certified": 0.003408477783203125,
+        "certified": true,
+        "runtime_sec": 0.041370391845703125
+      },
+      {
+        "eps_certified": 0.00142681884765625,
+        "certified": true,
+        "runtime_sec": 0.06101727485656738
+      },
+      {
+        "eps_certified": 0.003164581298828125,
+        "certified": true,
+        "runtime_sec": 0.06229829788208008
+      },
+      {
+        "eps_certified": 0.0017012023925781247,
+        "certified": true,
+        "runtime_sec": 0.05425095558166504
+      },
+      {
+        "eps_certified": 0.0019146118164062498,
+        "certified": true,
+        "runtime_sec": 0.03987741470336914
+      },
+      {
+        "eps_certified": 0.0015792541503906249,
+        "certified": true,
+        "runtime_sec": 0.03435397148132324
+      },
+      {
+        "eps_certified": 0.00374383544921875,
+        "certified": true,
+        "runtime_sec": 0.031081199645996094
+      },
+      {
+        "eps_certified": 0.002128021240234375,
+        "certified": true,
+        "runtime_sec": 0.03353571891784668
+      },
+      {
+        "eps_certified": 0.00301214599609375,
+        "certified": true,
+        "runtime_sec": 0.049555063247680664
+      },
+      {
+        "eps_certified": 0.001274383544921875,
+        "certified": true,
+        "runtime_sec": 0.06279563903808594
+      },
+      {
+        "eps_certified": 0.0014877929687499999,
+        "certified": true,
+        "runtime_sec": 0.06407761573791504
+      },
+      {
+        "eps_certified": 0.0035914001464843748,
+        "certified": true,
+        "runtime_sec": 0.04997372627258301
+      },
+      {
+        "eps_certified": 0.0015792541503906249,
+        "certified": true,
+        "runtime_sec": 0.050969839096069336
+      },
+      {
+        "eps_certified": 0.0027377624511718745,
+        "certified": true,
+        "runtime_sec": 0.05100297927856445
+      },
+      {
+        "eps_certified": 0.00142681884765625,
+        "certified": true,
+        "runtime_sec": 0.04974770545959473
+      },
+      {
+        "eps_certified": 0.0021585083007812497,
+        "certified": true,
+        "runtime_sec": 0.033807992935180664
+      },
+      {
+        "eps_certified": 0.0,
+        "certified": false,
+        "runtime_sec": 0.0010571479797363281
+      },
+      {
+        "eps_certified": 0.0018231506347656248,
+        "certified": true,
+        "runtime_sec": 0.036421775817871094
+      },
+      {
+        "eps_certified": 0.0028292236328125,
+        "certified": true,
+        "runtime_sec": 0.05692410469055176
+      },
+      {
+        "eps_certified": 0.0018231506347656248,
+        "certified": true,
+        "runtime_sec": 0.06264543533325195
+      },
+      {
+        "eps_certified": 0.001274383544921875,
+        "certified": true,
+        "runtime_sec": 0.05138802528381348
+      },
+      {
+        "eps_certified": 0.002798736572265625,
+        "certified": true,
+        "runtime_sec": 0.057746171951293945
+      },
+      {
+        "eps_certified": 0.0036523742675781245,
+        "certified": true,
+        "runtime_sec": 0.055193424224853516
+      },
+      {
+        "eps_certified": 0.0018536376953124998,
+        "certified": true,
+        "runtime_sec": 0.05475807189941406
+      },
+      {
+        "eps_certified": 0.0014877929687499999,
+        "certified": true,
+        "runtime_sec": 0.03886771202087402
+      },
+      {
+        "eps_certified": 0.0025853271484375,
+        "certified": true,
+        "runtime_sec": 0.044545650482177734
+      },
+      {
+        "eps_certified": 0.00203656005859375,
+        "certified": true,
+        "runtime_sec": 0.040598392486572266
+      },
+      {
+        "eps_certified": 0.0028292236328125,
+        "certified": true,
+        "runtime_sec": 0.03250885009765625
+      },
+      {
+        "eps_certified": 0.0017012023925781247,
+        "certified": true,
+        "runtime_sec": 0.03640866279602051
+      },
+      {
+        "eps_certified": 0.002615814208984375,
+        "certified": true,
+        "runtime_sec": 0.041083335876464844
+      },
+      {
+        "eps_certified": 0.002981658935546875,
+        "certified": true,
+        "runtime_sec": 0.040619611740112305
+      },
+      {
+        "eps_certified": 0.00264630126953125,
+        "certified": true,
+        "runtime_sec": 0.026623964309692383
+      },
+      {
+        "eps_certified": 0.00264630126953125,
+        "certified": true,
+        "runtime_sec": 0.026354312896728516
+      },
+      {
+        "eps_certified": 0.001152435302734375,
+        "certified": true,
+        "runtime_sec": 0.03253030776977539
+      },
+      {
+        "eps_certified": 0.004384063720703125,
+        "certified": true,
+        "runtime_sec": 0.039301156997680664
+      },
+      {
+        "eps_certified": 0.003713348388671875,
+        "certified": true,
+        "runtime_sec": 0.04730677604675293
+      }
+    ],
+    "stats": {
+      "mean_eps_certified": 0.0023058203125,
+      "std_eps_certified": 0.0009590191526990421,
+      "median_eps_certified": 0.00228045654296875,
+      "fraction_certified": 0.94,
+      "mean_runtime_sec": 0.04226470232009888,
+      "n_samples": 100
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "small_mnist": {
+    "fgsm": {
+      "mean_eps_upper": 0.1639687051138282,
+      "std_eps_upper": 0.11691347944197564,
+      "median_eps_upper": 0.12871019242703913,
+      "mean_eps_lower": 0.0,
+      "mean_runtime_sec": 0.023318870067596434,
+      "total_runtime_sec": 2.3318870067596436,
+      "fraction_adversarial_found": 1.0,
+      "n_samples": 100
+    },
+    "pgd": {
+      "mean_eps_upper": 0.12857371459960937,
+      "std_eps_upper": 0.05474644754584506,
+      "median_eps_upper": 0.11837518310546874,
+      "mean_eps_lower": 0.0,
+      "mean_runtime_sec": 0.28111173629760744,
+      "total_runtime_sec": 28.111173629760742,
+      "fraction_adversarial_found": 1.0,
+      "n_samples": 100
+    }
+  },
+  "medium_mnist": {
+    "fgsm": {
+      "mean_eps_upper": 0.2630573875671625,
+      "std_eps_upper": 0.16471637818922927,
+      "median_eps_upper": 0.22770289869606491,
+      "mean_eps_lower": 0.0,
+      "mean_runtime_sec": 0.030626718997955323,
+      "total_runtime_sec": 3.0626718997955322,
+      "fraction_adversarial_found": 0.99,
+      "n_samples": 100
+    },
+    "pgd": {
+      "mean_eps_upper": 0.19167186920166013,
+      "std_eps_upper": 0.08115691555620194,
+      "median_eps_upper": 0.18346505737304686,
+      "mean_eps_lower": 0.0,
+      "mean_runtime_sec": 0.4275244808197021,
+      "total_runtime_sec": 42.752448081970215,
+      "fraction_adversarial_found": 1.0,
+      "n_samples": 100
+    }
+  },
+  "large_cifar": {
+    "fgsm": {
+      "mean_eps_upper": 0.06648961947411297,
+      "std_eps_upper": 0.07959588166143447,
+      "median_eps_upper": 0.04214672431349754,
+      "mean_eps_lower": 0.0,
+      "mean_runtime_sec": 0.19019471645355224,
+      "total_runtime_sec": 19.019471645355225,
+      "fraction_adversarial_found": 1.0,
+      "n_samples": 100
+    },
+    "pgd": {
+      "mean_eps_upper": 0.04767873840332031,
+      "std_eps_upper": 0.04300544711876212,
+      "median_eps_upper": 0.038834442138671876,
+      "mean_eps_lower": 0.0,
+      "mean_runtime_sec": 2.8615444540977477,
+      "total_runtime_sec": 286.1544454097748,
+      "fraction_adversarial_found": 1.0,
+      "n_samples": 100
+    }
+  }
+}

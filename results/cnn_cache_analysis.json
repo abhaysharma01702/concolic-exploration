@@ -1,0 +1,9 @@
+{
+  "time_without_cache_sec": 976.9944672584534,
+  "time_with_cache_sec": 910.3611330986023,
+  "speedup": 1.0731943969675537,
+  "cache_hit_rate": 0.0,
+  "n_distinct_patterns": 30,
+  "n_samples": 30,
+  "pattern_reuse_rate": 0.0
+}
